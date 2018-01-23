@@ -21,11 +21,11 @@ dotnet removeoldpackage.dll "target folder"
 
 ### Execute image
 
-![before folder](images\beforeimage.png)
+![before folder](images/beforeimage.png)
 
 before folder.
 
-![after folder](images\afterimage.png)
+![after folder](images/afterimage.png)
 
 after folder. 
 
